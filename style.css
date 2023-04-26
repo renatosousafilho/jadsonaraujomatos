@@ -1,0 +1,39 @@
+html {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(176,196,222)
+}
+
+img {
+    border-radius: 50%;
+}
+
+.meuNome, .minhaDescricao {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+em, strong {
+    color: rgb(65,105,225);
+}
+
+.javascript {
+    font-size: 30px;
+}
+
+.sql {
+    font-size: 29px;
+}
+
+.react {
+    font-size: 28px;
+}
+
+.bootstrap {
+    font-size: 27px;
+}
+
+.metoAgil {
+    font-size: 26px;
+}

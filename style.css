@@ -3,11 +3,8 @@ html {
 }
 
 body {
-    background-color: rgb(176,196,222)
-}
-
-img {
-    border-radius: 50%;
+    background-color: rgb(176,196,222);
+    padding: 3%;
 }
 
 .meuNome, .minhaDescricao {
@@ -16,6 +13,11 @@ img {
 
 em, strong {
     color: rgb(65,105,225);
+}
+
+ul {
+    list-style: none;
+    margin-right: 50px;
 }
 
 .javascript {
@@ -36,4 +38,31 @@ em, strong {
 
 .metoAgil {
     font-size: 26px;
+}
+
+#foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 50%;
+}
+
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+.meuNome {
+    text-align: center;
+}
+
+.minhaDescricao {
+    position: absolute;
+    top: 35%;
+    right: 2%;
+}
+
+ul li:nth-child(odd) {
+    background-color: blanchedalmond;
 }

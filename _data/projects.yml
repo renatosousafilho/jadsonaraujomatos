@@ -2,7 +2,8 @@
 - name: Stomatopoda
   gh_user: jadsonmattos
   repo: Stomatopoda
-  img: /image/stomatopoda.jpeg
+  img: /assets/stomatopoda.jpg
+
 
 #- name: Long running Azure Functions on Consumption Plan
 #  gh_user: tzuehlke

@@ -1,1 +1,37 @@
-Name: Portfólio Web
+# Site settings
+title: Jadson S. Mattos
+description: 'Business Card Page'
+url: 'https://JadsonMattos.github.io'
+baseurl: ''
+profilepic: '/images/android512.png'
+bkimage: '/images/pages.jpeg'
+google_analytics: UA-XXXXXX-X
+font_awesome: 'e03c5b4f9a.js'
+
+author:
+  name: 'Jadson Mattos'
+  email: jadson.sousamattos@gmail.com
+#  mastodon: tzuehlke@mstdn.social
+#  twitter_username: thomzuehlke
+#  facebook_username: joshgerdes
+  github_username:  JadsonMattos
+  linkedin_username:  jadsonmattos
+  meetup_name: jadsonmattos
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']

@@ -1,5 +1,10 @@
 # projects section data
 
+- name: Project Playground Functions
+  gh_user: jadsonmattos
+  repo: Playground-Functions
+  img: /assets/playground.jpg
+
 - name: Exercise About Functions
   gh_user: jadsonmattos
   repo: Exercise-Functions
@@ -14,12 +19,6 @@
   gh_user: jadsonmattos
   repo: Stomatopoda
   img: /assets/stomatopoda.jpg
-
-
-#- name: Monopoly Money Manager
-#  gh_user: tzuehlke
-#  repo: MonopolyMoneyManager
-#  img: https://user-images.githubusercontent.com/32843441/103153706-bad12c80-4792-11eb-880b-1bf966d6d2a1.png
 
 #- name: Azure Gremlin API
 #  gh_user: tzuehlke

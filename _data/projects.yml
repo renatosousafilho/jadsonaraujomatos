@@ -1,19 +1,20 @@
 # projects section data
+
+- name: Exercise About Functions
+  gh_user: jadsonmattos
+  repo: Exercise-Functions
+  img: /assets/functions.jpeg
+
+- name: Project Lessons Learned
+  gh_user: jadsonmattos
+  repo: LessonsLearned
+  img: /assets/html.jpg
+  
 - name: Stomatopoda
   gh_user: jadsonmattos
   repo: Stomatopoda
   img: /assets/stomatopoda.jpg
 
-
-#- name: Long running Azure Functions on Consumption Plan
-#  gh_user: tzuehlke
-#  repo: AzureFunction-TimeoutCheck
-#  img: https://user-images.githubusercontent.com/32843441/147861707-a0c412ab-93d6-4fd2-86f4-2ef2b2722c47.png
-
-#- name: 
-#  gh_user: tzuehlke
-#  repo: keycloakssh
-#  img: https://user-images.githubusercontent.com/32843441/147859397-a1dbc63b-c58f-4536-ae8a-d51e17aa08ce.png
 
 #- name: Monopoly Money Manager
 #  gh_user: tzuehlke

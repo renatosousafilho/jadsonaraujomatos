@@ -1,5 +1,21 @@
 # projects section data
 
+- name: Pixels Art
+  gh_user: jadsonmattos
+  repo: Pixel-Arts
+  img: /assets/pixels.png
+
+- name: Formating Page
+  gh_user: jadsonmattos
+  repo: Web-Storage
+  img: /assets/formating.png
+
+- name: Spot
+  gh_user: jadsonmattos
+  repo: Spot
+  img: /assets/spot.png
+  desc: A beautiful design.
+
 - name: Jogo da Velha
   gh_user: jadsonmattos
   repo: Dojo-Jogo-da-Velha
@@ -32,20 +48,5 @@
 
 
 
-#- name: Jekyll Theme
-#  gh_user: tzuehlke
-#  repo: jekyll-uno-timeline
-#  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
-#  desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
 
-#- name: Azure Automation Scripts
-#  gh_user: tzuehlke
-#  repo: scripts
-  #img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-#  img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
-#  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
 
-#- name: Face API
-#  gh_user: ArvatoSystems
-#  repo: FaceApiWPF
-#  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png

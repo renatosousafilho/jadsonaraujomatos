@@ -1,5 +1,15 @@
 # projects section data
 
+- name: Meme Generator
+  gh_user: jadsonmattos
+  repo: Meme-Generator
+  img: /assets/miau.png
+  
+- name: TODO List
+  gh_user: jadsonmattos
+  repo: Todo-List
+  img: /assets/todolist.png
+  
 - name: Pixels Art
   gh_user: jadsonmattos
   repo: Pixel-Arts

@@ -1,5 +1,15 @@
 # projects section data
 
+- name: Carta Misteriosa
+  gh_user: jadsonmattos
+  repo: Carta-Misteriosa
+  img: /assets/cartaMisteriosa.png
+  
+- name: Color Guess
+  gh_user: jadsonmattos
+  repo: Color-Guess
+  img: /assets/colorguess.png
+  
 - name: Meme Generator
   gh_user: jadsonmattos
   repo: Meme-Generator

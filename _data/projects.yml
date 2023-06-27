@@ -1,5 +1,30 @@
 # projects section data
 
+- name: Trybewarts
+  gh_user: jadsonmattos
+  repo: Trybewarts
+  img: /assets/tribewarts.png
+  
+- name: Tricks
+  gh_user: jadsonmattos
+  repo: Tricks
+  img: /assets/tricks.png
+  
+- name: TryFlix
+  gh_user: jadsonmattos
+  repo: Tryflix
+  img: /assets/tryflix.png
+  
+- name: Tech Gallery
+  gh_user: jadsonmattos
+  repo: Tech-Gallery
+  img: /assets/techGallery.png
+  
+- name: Travel Forms
+  gh_user: jadsonmattos
+  repo: Trybe-Travel
+  img: /assets/trybeTravel.png
+  
 - name: Carta Misteriosa
   gh_user: jadsonmattos
   repo: Carta-Misteriosa

@@ -1,37 +1,23 @@
-# Site settings
-title: Jadson S. Mattos
-description: 'Business Card Page'
-url: 'https://JadsonMattos.github.io'
-baseurl: ''
-profilepic: '/images/android512.png'
-bkimage: '/images/pages.jpeg'
-google_analytics: UA-XXXXXX-X
-font_awesome: 'e03c5b4f9a.js'
 
-author:
-  name: 'Jadson Mattos'
-  email: jadson.sousamattos@gmail.com
-#  mastodon: tzuehlke@mstdn.social
-#  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  JadsonMattos
-  linkedin_username:  jadsonmattos
-  meetup_name: jadsonmattos
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '' #change it according to your repository name
 
-# Build settings
-destination: _site
-markdown: kramdown
-highlighter: rouge
 
-sass:
-    sass_dir: _sass
-    style: compressed
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
+# Profile information
+yourname: Jadson S Mattos  ## put your name
+title: 'DEVELOPER FULL-STACK'  ## your title
+location: Brazil
 
-#plugins: ['jekyll-paginate']
-exclude: ['README.md', 'screenshot-overview.png']
+
+## Social Profiles
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com/in/jadsonmattos  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.

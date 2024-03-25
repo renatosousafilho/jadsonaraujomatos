@@ -1,0 +1,104 @@
+<!-- .portfolio -->
+<div id="portfolio" class="content_2">
+    
+    <!-- .title -->
+    <h1 class="h-bloc">Portfolio - My Works</h1>
+
+    <!-- .container-portfolio -->
+    <div class="container-portfolio">
+
+        <!-- #filters -->
+        <ul id="filters" class="clearfix">
+            <li><span class="filter active" data-filter="fundamentos frontend backend computacao">Todos</span></li>
+            <li><span class="filter" data-filter="fundamentos">Fundamentos e Outros</span></li>
+            <li><span class="filter" data-filter="frontend">Front-End</span></li>
+            <li><span class="filter" data-filter="backend">Back-End</span></li>
+            <li><span class="filter" data-filter="computacao">Ciência da Computação</span></li>
+        </ul>
+        <!-- /#filters -->
+
+        <!-- #portfoliolist -->
+        <div id="portfoliolist">
+
+            <!-- {% for project in site.data.projects %}
+                <div class="portfolio logo" data-cat="{{ project.category }}">
+                    <div class="portfolio-wrapper">		
+                        <a href="{{ project.url | default: '#' }}" rel="portfolio" title="{{ project.description | default: '' }}">
+                            <img src="{{ project.image }}" alt="" />
+                            <div class="label">
+                                <div class="label-text">
+                                    <a class="text-title">{{ project.name }}</a>
+                                    <span class="text-category">{{ project.category }}</span>
+                                </div>
+                                <div class="label-bg"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            {% endfor %} -->
+            
+            <!-- .portfolio -->
+            <div class="portfolio fundamentos" data-cat="fundamentos">	
+                <!-- .portfolio-wrapper -->
+                <div class="portfolio-wrapper">		
+                    <a href="/images/portfolio/lessons.png" rel="portfolio" title="Desenvolvimento de uma página HTML estilizada com CSS. Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.">
+                        <img src="/images/portfolio/lessons.png" alt="" />
+                        <div class="label">
+                            <div class="label-text">
+                                <a href="https://jadsonmattos.github.io/LessonsLearned" target="_blank" class="text-title">Lessons Learned</a>
+                                <span class="text-category">Fundamentos</span>
+                            </div>
+                            <div class="label-bg"></div>
+                        </div>
+                    </a>
+                </div>
+                <!-- /.portfolio-wrapper -->
+            </div>		
+            <!-- /.portfolio -->
+
+            <!-- .portfolio -->
+            <div class="portfolio fundamentos" data-cat="fundamentos">	
+                <!-- .portfolio-wrapper -->
+                <div class="portfolio-wrapper">		
+                    <a href="/images/portfolio/calendar.png" rel="portfolio" title="Nesse calendário, você vai poder adicionar feriados e compromissos, além de adicionar as tarefas que você precisa realizar!">
+                        <img src="/images/portfolio/calendar.png" alt="" />
+                        <div class="label">
+                            <div class="label-text">
+                                <a href="https://jadsonmattos.github.io/Tryber-Calendar/" target="_blank" class="text-title">Calendar</a>
+                                <span class="text-category">Fundamentos</span>
+                            </div>
+                            <div class="label-bg"></div>
+                        </div>
+                    </a>
+                </div>
+                <!-- /.portfolio-wrapper -->
+            </div>		
+            <!-- /.portfolio -->
+
+            <!-- .portfolio -->
+            <div class="portfolio fundamentos" data-cat="fundamentos">	
+                <!-- .portfolio-wrapper -->
+                <div class="portfolio-wrapper">		
+                    <a href="/images/portfolio/paleta.png" rel="portfolio" title="Paleta de Cores.">
+                        <img src="/images/portfolio/paleta.png" alt="" />
+                        <div class="label">
+                            <div class="label-text">
+                                <a href="https://jadsonmattos.github.io/Pixel-Arts/" target="_blank" class="text-title">Pixel-Arts</a>
+                                <span class="text-category">Fundamentos</span>
+                            </div>
+                            <div class="label-bg"></div>
+                        </div>
+                    </a>
+                </div>
+                <!-- /.portfolio-wrapper -->
+            </div>		
+            <!-- /.portfolio -->
+
+            <div class="clear"></div>
+
+        </div>
+        <!-- #portfoliolist -->
+    </div>
+    <!-- /.container-portfolio -->
+</div>
+<!-- End .portfolio -->
